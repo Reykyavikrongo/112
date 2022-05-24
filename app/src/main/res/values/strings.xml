@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">112</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_settings">+</string>
+    <string name="GPSAlertDialogTitle">Alert</string>
+    <string name="GPSAlertDialogMessage">AlertMessage</string>
+    <string name="hospital">Hospital</string>
+    <string name="police">Police</string>
+</resources>
